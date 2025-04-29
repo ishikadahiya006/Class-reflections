@@ -27,4 +27,10 @@ for instance, converting 1000000:
 so, 1000000 in binary numbers is equal to 64 in decimal numbers.
 The professor gave us another question to convert the normal number to binary number and later we have to check the result by again converting the binary number to the normal number and after this the class got over.
  
+<<<<<<< HEAD
 >>>>>>> 17616a5 (second commit)
+=======
+# 16th January 2025
+This session began with a quick round of introductions and also where each one of us shared our views on why we chose this course as our Occupational Track and what we hoped to take away from this course. While listening to everyone speak made me feel more connected to the group and it was actually very interesting to hear different perspectives and expectations as some of them were curious and a few like me were still exploring. I personally felt excited but at the same time was a bit unsure about what to expect. After the introductions, we were divided into a group of 5 members and were asked to step outside and explore the campus. So, basically our task was to explore and observe our surroundings and note down the things which could be categorized under the term technology. This activity was quite fun and also made me see each and every object very carefully and the interesting part was to notice the fact that how much of our life is surrounded and dependent on technology which we usually don't notice. Back in the class, we discussed our findings briefly before the professor took attendance and asked us to upload our group's list on Moodle. The class ended on a light note as it was a very thoughtful and interactive session and I am looking forward to all the upcoming session, activities and also to look what comes next in the course
+
+>>>>>>> 8ba0e80 (first commit)
