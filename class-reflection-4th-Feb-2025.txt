@@ -1,0 +1,2 @@
+4th February 2025
+In this class, we started by installing Windows Subsystem for Linux on our computers. After the installation we learned how to check what files and folders are in a directory, and how to open apps just by typing the commands and instead of clicking on the icons. 
