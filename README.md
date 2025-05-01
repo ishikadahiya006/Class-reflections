@@ -30,3 +30,6 @@ This class was full of important basics. To begin with the class, the instructor
 # 27th January 2025           
 In this class, we learned about two important parts inside a computer i.e, the Address Bus and the Data Bus. Our instructor explained how these are used to carry out actions like loading, storing, input, output, and even basic operations like add and subtract. She also talked about transistor circuits, which work like small switches or gates that control how signals pass through a computer. One of the most interesting parts for me was understanding how the ALU (Arithmetic Logic Unit) handles all the calculations, and how the results are saved in something called an accumulator. It really helped me understand how computers process data step by step.
 
+# 30th January 2025 
+This class was mainly a quick check on how well we have understood the concept of binary numbers. We had an online quiz on Moodle for this.
+
