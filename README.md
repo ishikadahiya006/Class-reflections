@@ -60,6 +60,11 @@ We had a quiz in class to test our knowledge of Linux Commands.
 # 20th March 2025
 In this class, the instructor taught us to rename multiple files at once using a simple loop command in Linux, instead of renaming each file one by one. The command for this was: for i in *; do mv "$i" "$i.txt"; done. This helped me to understand how powerful as well as time saving command line tools can be particularly when handling multiple files at the same time. 
 
+# 25th March 2025
+In this class, the instructor introduced us to a platform which is used for sending bulk emails efficiently. We also learned about hardware connections, where she explained how different computer components are connected and communicate with each other.
+
+
+
 
 
 
