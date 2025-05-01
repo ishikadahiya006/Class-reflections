@@ -80,6 +80,8 @@ In today’s class, all the groups discussed their topics as well as the ideas f
 # 22nd April 2025
 Today’s class was originally scheduled for group presentations, but since none of the groups were fully prepared, the presentations were postponed. Instead, the session was turned into a feedback session where our instructor asked us to share our thoughts about the course so far. We also talked about what we had expected to learn but had not yet, as well as topics that we really enjoyed and the things which we found out to be challenging during the course. I personally found that this was a good space to reflect on our learnings and also give suggestions for improving it in the future. 
 
+# 24th April 2025
+For this class, each group was assigned a specific time slot to deliver their final group presentations. Each group came up during their time slot and gave a presentation on the work they have worked on. 
 
 
 
