@@ -74,6 +74,8 @@ In today's class we had a really insightful guest lecture that began by explorin
 
 The session covered Hebb's Rule, which is a foundational idea in how learning happens in neural networks. We then moved on to how artificial neurons are actually built and trained — learning about processes like the forward pass, backward pass, and how we estimate and reduce loss during training. It was a great introduction to how Artificial Neural Networks (ANNs) work.
 
+# 10th April 2025
+In today’s class, all the groups discussed their topics as well as the ideas for the final project presentation. Each group was asked to talk about the topic they had chosen, why they selected it, and what specific aspects on which we were planning to work on. We also discussed the progress that we had made so far. 
 
 
 
