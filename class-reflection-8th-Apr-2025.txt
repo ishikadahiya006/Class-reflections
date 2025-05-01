@@ -1,0 +1,4 @@
+8th April 2025
+In today's class we had a really insightful guest lecture that began by exploring artificial neurons and how they are inspired by biological neurons. The speaker explained the similarities and differences between the two, which helped make the concept easier to grasp. We also learned about basic logic gates like the AND and OR gates, and how threshold functions apply to them.
+
+The session covered Hebb's Rule, which is a foundational idea in how learning happens in neural networks. We then moved on to how artificial neurons are actually built and trained — learning about processes like the forward pass, backward pass, and how we estimate and reduce loss during training. It was a great introduction to how Artificial Neural Networks (ANNs) work.
