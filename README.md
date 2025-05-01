@@ -63,6 +63,9 @@ In this class, the instructor taught us to rename multiple files at once using a
 # 25th March 2025
 In this class, the instructor introduced us to a platform which is used for sending bulk emails efficiently. We also learned about hardware connections, where she explained how different computer components are connected and communicate with each other.
 
+# 27th March 2025
+In this class, the instructor explained to us the concept of IP addresses (Internet Protocol addresses) and how they help identify devices on a network. We also learned about firewalls, which basically acts as a layer of protection by hiding or blocking access to our IP address. The instructor talked about how data is packaged with additional information before being sent over the internet, and how servers accept or close connections based on requests. Key terms like HTTP (used for web browsing) and FTP (used for file transfers) were also introduced to help us understand how online communication works.
+
 
 
 
