@@ -42,5 +42,9 @@ In this class, the instructor introduced us to PowerShell, a tool which is used 
 # 13th February 2025 
 In today’s class, the instructor continued teaching us about Linux through WSL. We learned some basic commands, like how to create and delete directories, list all the files in a directory, and check the background processes running on the computer. We also practiced making text notes using the Pico editor and got a quick introduction to Bash (the command-line interface). Besides this, the instructor also shared a brief history of Unix and Linux, helping us understand how these systems were developed and why they are important today.
 
+18th February 2025
+This class was meant for group presentations. Each group had to choose a topic from what we had learned so far in the course and present their understanding of it. It was a great way to reflect on what we’ve covered and learn from each other’s perspectives.
+
+
 
 
