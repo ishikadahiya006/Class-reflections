@@ -1,0 +1,2 @@
+1st April 2025
+Today’s class began with a short quiz based on our readings about internet protocols and data transmission. After that, we continued learning how to use Git inside WSL. The instructor showed us how to create using the Pico editor, adding them to a Git repository, checking their status, and committing the changes. We also explored history and how it has evolved over time into what we use today.  
