@@ -66,6 +66,9 @@ In this class, the instructor introduced us to a platform which is used for send
 # 27th March 2025
 In this class, the instructor explained to us the concept of IP addresses (Internet Protocol addresses) and how they help identify devices on a network. We also learned about firewalls, which basically acts as a layer of protection by hiding or blocking access to our IP address. The instructor talked about how data is packaged with additional information before being sent over the internet, and how servers accept or close connections based on requests. Key terms like HTTP (used for web browsing) and FTP (used for file transfers) were also introduced to help us understand how online communication works.
 
+# 1st April 2025
+Today’s class began with a short quiz based on our readings about internet protocols and data transmission. After that, we continued learning how to use Git inside WSL. The instructor showed us how to create using the Pico editor, adding them to a Git repository, checking their status, and committing the changes. We also explored history and how it has evolved over time into what we use today.  
+
 
 
 
