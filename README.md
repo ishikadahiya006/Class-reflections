@@ -46,7 +46,11 @@ In today’s class, the instructor continued teaching us about Linux through WSL
 This class was meant for group presentations. Each group had to choose a topic from what we had learned so far in the course and present their understanding of it. It was a great way to reflect on what we’ve covered and learn from each other’s perspectives.
 
 # 4th March 2025
-In this class, we went deeper into Linux shell commands. We learned how to use chmod to change file permissions, how to write basic bash scripts, and how to check running processes using ps-aux and ps-ef. We also practiced commands like cat, wc, and how to use pipes (|) to connect commands. One of the most useful things we learned was how to rename multiple files at once using a simple for-loop: for i in ls; do mv $i $i.txt; done. I even realized that this trick can actually save a lot of time when a person is working with many files at once
+In this class, we went deeper into Linux shell commands. We learned how to use chmod to change file permissions, how to write basic bash scripts, and how to check running processes using ps-aux and ps-ef. We also practiced commands like cat, wc, and how to use pipes (|) to connect commands. One of the most useful things we learned was how to rename multiple files at once using a simple for-loop: for i in ls; do mv $i $i.txt; done. I even realized that this trick can actually save a lot of time when a person is working with many files at once.
+
+# 6th March 2025
+The class was held for a short period of time, during which we went over some of the previously learned commands as well as the codes.  
+
 
 
 
