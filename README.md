@@ -33,3 +33,7 @@ In this class, we learned about two important parts inside a computer i.e, the A
 # 30th January 2025 
 This class was mainly a quick check on how well we have understood the concept of binary numbers. We had an online quiz on Moodle for this.
 
+# 4th February 2025
+In this class, we started by installing Windows Subsystem for Linux on our computers. After the installation we learned how to check what files and folders are in a directory, and how to open apps just by typing the commands and instead of clicking on the icons. 
+
+
