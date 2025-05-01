@@ -51,6 +51,10 @@ In this class, we went deeper into Linux shell commands. We learned how to use c
 # 6th March 2025
 The class was held for a short period of time, during which we went over some of the previously learned commands as well as the codes.  
 
+# 11th March 2025
+We had a guest lecture in this class where the guest speaker talked about how quickly technology is evolving. One example he gave was of a self-parking car, which really showed how tech is making everyday life easier and convenient. The session also gave us a glimpse into how the future might look with even more advanced technologies becoming a part of our day-to-day lives. 
+
+
 
 
 
