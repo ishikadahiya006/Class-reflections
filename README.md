@@ -39,4 +39,8 @@ In this class, we started by installing Windows Subsystem for Linux on our compu
 # 11th February 2025
 In this class, the instructor introduced us to PowerShell, a tool which is used to manage files and folders using commands. We learned how to create new directories (folders) and move different types of downloaded files like MP3s, images, Google Docs into those folders. It was a hands-on session, and using these commands made me feel more confident about managing files on my computer more efficiently.
 
+# 13th February 2025 
+In today’s class, the instructor continued teaching us about Linux through WSL. We learned some basic commands, like how to create and delete directories, list all the files in a directory, and check the background processes running on the computer. We also practiced making text notes using the Pico editor and got a quick introduction to Bash (the command-line interface). Besides this, the instructor also shared a brief history of Unix and Linux, helping us understand how these systems were developed and why they are important today.
+
+
 
