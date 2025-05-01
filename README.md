@@ -36,4 +36,7 @@ This class was mainly a quick check on how well we have understood the concept o
 # 4th February 2025
 In this class, we started by installing Windows Subsystem for Linux on our computers. After the installation we learned how to check what files and folders are in a directory, and how to open apps just by typing the commands and instead of clicking on the icons. 
 
+# 11th February 2025
+In this class, the instructor introduced us to PowerShell, a tool which is used to manage files and folders using commands. We learned how to create new directories (folders) and move different types of downloaded files like MP3s, images, Google Docs into those folders. It was a hands-on session, and using these commands made me feel more confident about managing files on my computer more efficiently.
+
 
