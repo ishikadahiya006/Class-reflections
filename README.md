@@ -57,6 +57,10 @@ We had a guest lecture in this class where the guest speaker talked about how qu
 # 13th March 2025
 We had a quiz in class to test our knowledge of Linux Commands. 
 
+# 20th March 2025
+In this class, the instructor taught us to rename multiple files at once using a simple loop command in Linux, instead of renaming each file one by one. The command for this was: for i in *; do mv "$i" "$i.txt"; done. This helped me to understand how powerful as well as time saving command line tools can be particularly when handling multiple files at the same time. 
+
+
 
 
 
